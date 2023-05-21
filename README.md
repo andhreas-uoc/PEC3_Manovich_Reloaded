@@ -45,6 +45,7 @@ Todos estos ejemplos y opciones hacen que las posibilidades con las que me puedo
 
 
 ## Re-descubriendo la hibridacion: VR orientada a videojuegos
+![mundo_virtual](https://img.freepik.com/foto-gratis/collage-degradado-concepto-metaverso_23-2149391493.jpg)
 
 La hibridación en la realidad virtual orientada a videojuegos es un tema emocionante y relevante. En este contexto, se refiere a la **combinación de elementos** de la realidad virtual con otros elementos del mundo de los videojuegos para crear **experiencias inmersivas y envolventes**.
 
@@ -56,12 +57,15 @@ Otro aspecto es la integración de mecánicas de juego interactivas son, que sue
 
 Igual que con el motor gráfico antes comentado, suele ser lo más común incluir **elementos de sonido y música**. Los efectos de sonido espaciales y envolventes pueden sumergir aún más a los jugadores en los entornos virtuales, mientras que la música puede contribuir a la atmósfera y la emoción del juego. La combinación de audio de alta calidad con la inmersión visual de la realidad virtual agrega una capa adicional de hibridación a la experiencia del jugador.
 
-La realidad virtual orientada a videojuegos también puede aprovechar la hibridación a través de la **narrativa y la creación de mundos**. Al combinar elementos de diseño de niveles, personajes y tramas envolventes con la inmersión de la realidad virtual, se pueden crear experiencias híbridas que ofrecen tanto una narrativa rica como una interacción inmersiva.
+![elementos](https://img.freepik.com/foto-gratis/collage-concepto-experiencia-inmersiva_23-2149498347.jpg)
+
+La realidad virtual orientada a videojuegos también puede aprovechar la hibridación a través de la **narrativa y la creación de mundos**. Al combinar elementos de diseño de niveles, personajes y tramas envolventes con la inmersión de la realidad virtual, se pueden crear experiencias híbridas que ofrecen tanto una narrativa rica como una interacción inmersiva. 
 
 Aunque actualmente el auge de la VR no está en su máximo esplendor debido a que aun siendo muy llamativa el sistemas de realidad virtual es difícil y requiere de conocimientos para su configuración, a parte de que, el desarrollo de un juego VR es muy complejo debido a la interacción con las físicas y la necesidad de tener un mínimo de fluidez para no generar mareos en el consumidor, un gran desafío cuando se quiere mostrar mundos muy detallados.
 
 La **conclusión** a la que llego frente a esta tecnología es que aun siendo revolucionaria es engorrosa y que no veremos su máximo potencial hasta que no se pueda integrar en la vida de los consumidores de una manera más económica y sencilla.
 
+![conlusion-VR](https://img.freepik.com/foto-gratis/joven-asiatico-auriculares-gafas-portatiles-reunion-virtual-linea-espacio-digital-que-trabaja-dimension-aumentada-3d-casa-trabajo-virtual-cibernetico-gafas-virtuales-vr-dispositivo-escritorio-pc_609648-2614.jpg)
 
 
 ### Referencias y Bibliografía
