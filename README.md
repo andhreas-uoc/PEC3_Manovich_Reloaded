@@ -73,7 +73,10 @@ La **conclusión** a la que llego frente a esta tecnología es que aun siendo re
 
 ### Referencias y Bibliografía
 
-- Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
+- Manovich, Lev. "El software toma el mando" (2013) [Capítulos 4 y 5]
+- Documentación de GitHub [en línea] [consulta: mayo 2023]: disponible en https://docs.github.com/es/repositories/creating-and-managing-repositories/about-repositories
+- Adell, Ferran. "Fundamentos y evolución de la multimedia" (2014) [en línea] [consulta: mayo 2023]: disponible en http://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans/
+- Muñoz-Justicia, Juan. "Conocimiento Abierto y Tecnología" (2014) [en línea] [consulta: mayo 2023]: disponible en http://juan.psicologiasocial.eu/conocimiento-y-tecnologia
 - Freepik. “*Collage de amor virtual metaverso*”. https://www.freepik.es/foto-gratis/collage-amor-virtual-metaverso_29823738.htm
 - Freepik. “*Colapso mundial, escena apocalíptica, pintura digital*”. https://www.freepik.es/foto-gratis/colapso-mundial-escena-apocaliptica-pintura-digital_14541113.htm
 - Freepik. “*Una nave espacial extraterrestre apareció sobre ciudades antiguas, ilustración de ciencia ficción*”. https://www.freepik.es/foto-gratis/nave-espacial-extraterrestre-aparecio-sobre-ciudades-antiguas-ilustracion-ciencia-ficcion_14402157.htm
