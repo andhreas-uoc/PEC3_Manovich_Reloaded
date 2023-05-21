@@ -30,10 +30,13 @@ A continuación doy los textos planteados.
 
 
 ## Re-descubriendo la hibridacion: Unreal Engine
+![mundo-ficcion](https://img.freepik.com/foto-gratis/colapso-mundial-escena-apocaliptica-pintura-digital_456031-63.jpg)
 
 En "*El software toma el mando*", Manovich sostiene que el software ha transformado diferentes aspectos de nuestra sociedad, incluida la creación de medios y arte. **Unreal Engine**, como motor gráfico, ejemplifica esta transformación al permitir a los desarrolladores **combinar elementos diversos** para crear experiencias híbridas en juegos y aplicaciones interactivas.
 
 Uno de los ejemplos a los que voy a ir haciendo referencia es la **integración de gráficos 3D, efectos visuales y física**. Los desarrolladores pueden combinar estos elementos para crear mundos virtuales que se asemejen a la realidad, permitiendo una inmersión profunda para los jugadores o incluso usados para **dar un entorno realista donde actuar**, ejemplos: El Mandaloriano, Westworld, The Expanse, etc. También, admite la integración de lógica de juego compleja, como **sistemas de inteligencia artificial** y mecánicas interactivas, lo que agrega otra capa de hibridación al permitir la interacción entre los jugadores y el mundo virtual.
+
+![recreacion-mundos](https://img.freepik.com/foto-gratis/nave-espacial-extraterrestre-aparecio-sobre-ciudades-antiguas-ilustracion-ciencia-ficcion_456031-2.jpg)
 
 Otro ejemplo es su capacidad para integrar **contenido multimedia, como videos, texturas y música**; dentro de los espacios que se llegan a generar. Esto permite combinar diferentes formas de medios y crear experiencias narrativas ricas y envolventes. Por ejemplo, un juego puede incluir secuencias de video en tiempo real que se entrelazan con la jugabilidad, o podemos encontrar una recreación fiel de un monumento y **visitarlo virtualmente** mediante la grabación del entorno real y darle una dinámica 3D.
 
@@ -71,7 +74,12 @@ La **conclusión** a la que llego frente a esta tecnología es que aun siendo re
 ### Referencias y Bibliografía
 
 - Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
-- Freepik. “Mujer de tiro medio con drone al aire libre”. https://www.freepik.es/foto-gratis/mujer-tiro-medio-drone-al-aire-libre_25965526.htm
+- Freepik. “*Collage de amor virtual metaverso*”. https://www.freepik.es/foto-gratis/collage-amor-virtual-metaverso_29823738.htm
+- Freepik. “*Colapso mundial, escena apocalíptica, pintura digital*”. https://www.freepik.es/foto-gratis/colapso-mundial-escena-apocaliptica-pintura-digital_14541113.htm
+- Freepik. “*Una nave espacial extraterrestre apareció sobre ciudades antiguas, ilustración de ciencia ficción*”. https://www.freepik.es/foto-gratis/nave-espacial-extraterrestre-aparecio-sobre-ciudades-antiguas-ilustracion-ciencia-ficcion_14402157.htm
+- Freepik. “*Collage degradado del concepto de metaverso*”. https://www.freepik.es/foto-gratis/collage-degradado-concepto-metaverso_25867823.htm
+- Freepik. “*Collage de concepto de experiencia inmersiva*”. https://www.freepik.es/foto-gratis/collage-concepto-experiencia-inmersiva_29014631.htm
+- Freepik. “*Joven asiático con auriculares con gafas portátiles reunión virtual en línea espacio digital que trabaja con una dimensión*”. https://www.freepik.es/foto-gratis/joven-asiatico-auriculares-gafas-portatiles-reunion-virtual-linea-espacio-digital-que-trabaja-dimension-aumentada-3d-casa-trabajo-virtual-cibernetico-gafas-virtuales-vr-dispositivo-escritorio-pc_26586305.htm
 
 ----
 
