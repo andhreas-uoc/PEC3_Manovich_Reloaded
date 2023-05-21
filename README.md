@@ -20,7 +20,7 @@ El planteamiento de este trabajo es manifestar con un par de ejemplo la **exposi
 - Unreal engine
 - Realidad virtual (VR) orientada a videojuegos
 
-Con un breve texto, daremos los motivos de porque se han seleccionado estas muestras y una opinión de su estado actual de los mismos en el panorama donde nos encontramos, intentando responder a las siguientes preguntas:
+Con un breve texto, daremos los motivos de porque se han seleccionado estas muestras y una opinión de el estado actual de los mismos en el panorama donde nos encontramos, intentando responder a las siguientes preguntas:
 
 - ¿Qué referencias podemos tomar desde el punto de vista de **Manovich**?
 - ¿Cuáles son los ejemplos más representativos de hibridación?
