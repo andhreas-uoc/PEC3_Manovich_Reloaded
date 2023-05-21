@@ -15,12 +15,12 @@ Fecha: 18/05/2023
 ## Planteamiento
 
 
-El planteamiento de este trabajo es manifestar con un par de ejemplo la **exposición de la hibridación** en el entorno actual del *software*, esto son mis ejemplos propuestos:
+El planteamiento de este trabajo es manifestar con un par de ejemplo la **exposición de la hibridación** en el entorno actual del *software*, esto son mis modelos propuestos:
 
 - Unreal engine
 - Realidad virtual (VR) orientada a videojuegos
 
-Con un breve texto, daremos los motivos de porque se han seleccionado estos ejemplos y una opinión de su estado actual en los mismos en panorama actual, intentando responder a las siguientes preguntas:
+Con un breve texto, daremos los motivos de porque se han seleccionado estas muestras y una opinión de su estado actual en los mismos en panorama actual, intentando responder a las siguientes preguntas:
 
 - ¿Qué referencias podemos tomar desde el punto de vista de **Manovich**?
 - ¿Cuáles son los ejemplos más representativos de hibridación?
